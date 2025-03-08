@@ -1,0 +1,19 @@
+.wrapper {
+  margin-bottom: 20px;
+}
+
+.wrapper p {
+  margin: 0;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.input {
+  width: 350px;
+  padding: 5px;
+  font-size: 16px;
+  border: 1px solid #000;
+  border-radius: 4px;
+  background-color: white;
+  color: black;
+}
